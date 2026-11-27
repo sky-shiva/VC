@@ -7,5 +7,5 @@ def register(username, email):
         return "Please enter all details"
 
 
-print(register("sky", "sky@gmail.com"))
+print(register("sky", "sky7781@gmail.com"))
 print(register("", ""))
